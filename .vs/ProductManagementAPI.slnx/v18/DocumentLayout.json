@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Jastin\\source\\repos\\ProductManagementAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DC9B17BB-2E4F-2632-7912-5865DAAF2D98}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\jastin\\source\\repos\\productmanagementapi\\productmanagementapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9B17BB-2E4F-2632-7912-5865DAAF2D98}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC9B17BB-2E4F-2632-7912-5865DAAF2D98}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\jastin\\source\\repos\\productmanagementapi\\productmanagementapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC9B17BB-2E4F-2632-7912-5865DAAF2D98}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Jastin\\source\\repos\\ProductManagementAPI\\ProductManagementAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Jastin\\source\\repos\\ProductManagementAPI\\ProductManagementAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwEgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:53:57.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\Jastin\\source\\repos\\ProductManagementAPI\\ProductManagementAPI\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "ProductManagementAPI\\Controllers\\CustomerController.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SupplierController.cs",
               "DocumentMoniker": "C:\\Users\\Jastin\\source\\repos\\ProductManagementAPI\\ProductManagementAPI\\Controllers\\SupplierController.cs",
               "RelativeDocumentMoniker": "ProductManagementAPI\\Controllers\\SupplierController.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "ProductManagementAPI\\Controllers\\SupplierController.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAcwEsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T08:44:48.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T08:44:48.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Jastin\\source\\repos\\ProductManagementAPI\\ProductManagementAPI\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "ProductManagementAPI\\Controllers\\CategoryController.cs",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "ProductManagementAPI\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T08:39:45.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T08:39:45.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Jastin\\source\\repos\\ProductManagementAPI\\ProductManagementAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ProductManagementAPI\\appsettings.json",
@@ -89,12 +104,11 @@
               "RelativeToolTip": "ProductManagementAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-24T08:29:18.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T08:29:18.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20260424082731_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Jastin\\source\\repos\\ProductManagementAPI\\ProductManagementAPI\\Migrations\\20260424082731_InitialCreate.cs",
               "RelativeDocumentMoniker": "ProductManagementAPI\\Migrations\\20260424082731_InitialCreate.cs",
@@ -106,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProductManagementAPI.csproj",
               "DocumentMoniker": "C:\\Users\\Jastin\\source\\repos\\ProductManagementAPI\\ProductManagementAPI\\ProductManagementAPI.csproj",
               "RelativeDocumentMoniker": "ProductManagementAPI\\ProductManagementAPI.csproj",
